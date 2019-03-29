@@ -1,4 +1,4 @@
 # Introduction
 
-创建一个GitBook
+整理汇总一些常用的文档、手册
 
