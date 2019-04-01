@@ -14,3 +14,9 @@
     * [Homestead](laravel5.5_rumen_zhinan/1285.md)
     * [Valet](laravel5.5_rumen_zhinan/1286.md)
     * [部署](laravel5.5_rumen_zhinan/1287.md)
+  *  核心架构
+    * [请求周期](laravel5.5_hexin_jiagou/1288.md)
+    * [服务容器](laravel5.5_hexin_jiagou/1289.md)
+    * [服务提供者](laravel5.5_hexin_jiagou/1290.md)
+    * [Facades](laravel5.5_hexin_jiagou/1291.md)
+    * [Contracts](laravel5.5_hexin_jiagou/1292.md)
